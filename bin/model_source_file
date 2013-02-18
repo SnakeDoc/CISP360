@@ -1,0 +1,27 @@
+/*************************************************************
+* File:   Name of source file (asgn1.c)                      *
+* Course: cisp360 Folsom Lake College  (semester year)       *
+* Author: Your Name (as it appears in your student records)  *
+* Date:   Date you completed the source code d/mm/yy format  *      
+*                                                            *
+* Assignment Description:                                    *
+*    describe the assignment as it appears in the text book  *
+*    with any modifications asked by the instructor          * 
+*    do not summarize                                        *
+*************************************************************/
+
+#include <stdio.h>  //standard Input/Output library
+
+int main( void ) { /* begin function main */
+
+   /* declare variables and describe purpose*/
+   int first_int;              //first value input from user
+   int second_int;             //second value input from user
+
+   /* Describe the following code block  */
+   printf("Please input an integer: ");
+
+  . . . 
+
+   return 0;
+} /* End function main */
